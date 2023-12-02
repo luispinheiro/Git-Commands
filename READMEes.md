@@ -4,10 +4,6 @@ Comandos de Git
 ## Versiones traducidas
 - [English version (original)](README.md)
 - [Versão em português](READMEpt.md)
-- [Türkçe versiyon](READMEtr.md)
-- [বাংলা সংস্করণ](READMEbn.md)
-- [हिन्दी अनुवाद](READMEhi.md)
-
 ___
 
 _Lista de los comandos de Git más utilizados_

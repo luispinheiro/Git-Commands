@@ -4,9 +4,6 @@ Git Commands
 ## Translated Versions
 - [Versão em português](READMEpt.md)
 - [Versión en español](READMEes.md)
-- [Türkçe versiyon](READMEtr.md)
-- [বাংলা সংস্করণ](READMEbn.md)
-- [हिन्दी अनुवाद](READMEhi.md)
 
 ___
 
