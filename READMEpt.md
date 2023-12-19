@@ -38,6 +38,7 @@ _Uma lista dos comandos Git mais usados_
 | `git branch -a` | Lista todas as branches (local e remoto) |
 | `git branch [nome da branch]` | Cria uma nova branch |
 | `git branch -d [nome da branch]` | Deleta uma branch |
+| `git branch -D [nome da branch]` | Força Deletar uma branch |
 | `git push origin --delete [nome da branch]` | Deleta uma branch remota |
 | `git checkout -b [nome da branch]` | Cria uma nova branch e muda para ela |
 | `git checkout -b [nome da branch] origin/[nome da branch]` | Clona uma branch remota e muda para ela |
