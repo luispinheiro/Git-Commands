@@ -37,6 +37,7 @@ _Lista de los comandos de Git más utilizados_
 | `git branch -a` | Muestra una lista de todas las ramas (locales y remotas) |
 | `git branch [nombre de la rama]` | Crea una nueva rama |
 | `git branch -d [nombre de la rama]` | Elimina una rama local |
+| `git branch -D [nome da branch]` | forzar la eliminación de una rama |
 | `git push origin --delete [nombre de la rama]` | Elimina una rama remota |
 | `git checkout -b [nombre de la rama]` | Crea una nueva rama y nos desplaza hasta ella |
 | `git checkout -b [nombre de la rama] origin/[nombre de la rama]` | Clona una rama remota y nos desplaza hasta ella |
